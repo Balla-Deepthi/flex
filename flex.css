@@ -1,0 +1,115 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.container
+{
+       background: black;
+       color: white;
+       display: flex;
+       justify-content: space-around;
+       padding: 10px;
+}
+.container1
+{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.part1
+{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.drop
+{
+    background: black;
+    color: white;
+    border: none;
+    
+}
+.container3
+{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-small;
+    padding: 10px;
+    
+
+}
+.People>span
+{
+    position: relative;
+    top: -15px;
+    right: 2px;
+    font-size:x-small;
+}
+.more>p
+{
+    position: relative;
+    left: 30px;
+}
+.image
+{
+    position: relative;
+    
+
+}
+
+.Container4{
+    background-image: url("../forestbridge.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    height: 200vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cstxt{
+    text-align: center;
+    font-size: 50px;
+}
+
+.dltxt{
+    text-align: center;
+    font-size: 20px;    
+}
+.cont 
+{
+    
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    
+    
+
+}
+.green
+{
+    background-color: green;
+    padding: 10px;
+    
+    
+
+}
+.red
+{
+    background-color: red;
+    padding: 10px;
+    color: #ffffff;
+   
+
+}
