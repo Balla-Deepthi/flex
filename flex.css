@@ -65,7 +65,7 @@
 }
 
 .Container4{
-    background-image: url("../forestbridge.jpg");
+    background-image: url("./forestbridge.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
